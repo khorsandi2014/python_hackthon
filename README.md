@@ -11,6 +11,6 @@ by Ray Khorsandi
 | Data Validation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python_hackthon/blob/main/lecture/06-data-and-validation.ipynb) | NA | NA |
 | KNN | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python_hackthon/blob/main/lecture/07-knn.ipynb) | n/a | n/a |
 | Decision Trees | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python_hackthon/blob/main/lecture/08-decision-trees.ipynb) | n/a | n/a |
-| Random Forests | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python_hackthon/blob/main/lecture/08b-random-forestsipynb) | n/a | n/a |
+| Random Forests | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python_hackthon/blob/main/lecture/08b-random-forests.ipynb) | n/a | n/a |
 | Intro to Hackathon | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khorsandi2014/python_hackthon/blob/main/lecture/09-required-intro-to-hackathon.ipynb) | n/a | n/a |
 
